@@ -3,12 +3,12 @@
   grid-template-columns: auto auto auto;
   grid-auto-rows: 400px;
   grid-gap: 10px;
-  background-color:rgba(255, 255, 255, 0.8);
+   background-color: #221512;
   padding: 5px;
 }
 .grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(255, 255, 255, 0.8);
+  border: 10px solid rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0);
   padding: 20px;
   font-size: 30px;
   text-align: center;
@@ -18,3 +18,4 @@ img {
 	height: 90%;
 	width: 100%;
 }
+
